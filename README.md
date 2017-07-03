@@ -19,6 +19,8 @@ stack new $projectName
 
 * Provide `stack` binary location
 
+* Set paths for `hlint` and `stylish-haskell` in IDEA Settings
+
 * Tools -> Haskell -> Download all sources
 
 Run: 
